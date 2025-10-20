@@ -1,0 +1,55 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_2A0CCD8F_0260_7A84_4176_14C5A5070994.source = https://maps.app.goo.gl/xGBGqTxYJFqg4pgXA
+LinkBehaviour_29CA9878_0220_F98C_4175_82CD8DD3F4E4.source = https://maps.app.goo.gl/xGBGqTxYJFqg4pgXA
+LinkBehaviour_24AF2FF2_0261_F69C_4176_F272AD6607CE.source = https://web.whatsapp.com/send?l=pt&phone=5547999287576
+LinkBehaviour_29D41879_0220_F98D_4182_3480C28549B7.source = https://web.whatsapp.com/send?l=pt&phone=5547999287576
+LinkBehaviour_29C9A878_0220_F98B_4149_2C1383687068.source = https://www.facebook.com/lisboaimoveisitapema/?locale=pt_BR
+LinkBehaviour_254E2340_0260_2FFC_416C_3DAC3894A7A0.source = https://www.facebook.com/lisboaimoveisitapema/?locale=pt_BR
+WebFrame_0C7A2792_2CF6_FD7B_41C1_B454D9EA310E.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56813.0689915087!2d-48.676379951367196!3d-27.130579299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8afcd670c8be9%3A0xab1d49fc791f15b5!2sLisboa%20Im%C3%B3veis%20Itapema!5e0!3m2!1spt-BR!2sbr!4v1760975739883!5m2!1spt-BR!2sbr
+WebFrame_0C7A2792_2CF6_FD7B_41C1_B454D9EA310E_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56813.0689915087!2d-48.676379951367196!3d-27.130579299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8afcd670c8be9%3A0xab1d49fc791f15b5!2sLisboa%20Im%C3%B3veis%20Itapema!5e0!3m2!1spt-BR!2sbr!4v1760976089536!5m2!1spt-BR!2sbr
+LinkBehaviour_2A62CD4E_0260_7B84_417C_6A65814E03AE.source = https://www.imoveislisboa.com.br/site/home
+LinkBehaviour_29C82877_0220_F984_415F_0F052FE69ACE.source = https://www.imoveislisboa.com.br/site/home
+LinkBehaviour_29C86878_0220_F98B_4181_330AADADC96B.source = https://www.instagram.com/lisboaimoveisitapema
+LinkBehaviour_2A2D17D1_0260_369C_4175_C85C5A95F135.source = https://www.instagram.com/lisboaimoveisitapema
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_12228478_02D6_5D3D_4181_4374E082EB86.toolTip = Lisboa Imóveis - Itapema
+
+### URL
+overlay_12A563CA_02F4_9812_4183_DEFE8A33DD17.url = https://www.imoveislisboa.com.br/
+
+## Media
+
+### Audio
+audiores_0FF08399_02F4_783E_4176_5AB0521A5262.mp3Url = media/audio_0EF40E48_02F5_881E_4184_1D0535D0D912_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_0F75AF25_0260_1784_415E_08A19FFA1957.label = IMG_4423 Panorama
+panorama_09BE083B_0261_F98C_4181_92D0B4EEF768.label = IMG_4430 Panorama
+panorama_09BA50C8_0261_EA8B_414A_D0C27F890C88.label = IMG_4438 Panorama
+panorama_09BA292D_0260_1B84_4176_091BDB6EAB53.label = IMG_4445 Panorama
+panorama_09BA71ED_0260_2A84_417C_212E44EBF2EC.label = IMG_4452 Panorama
+panorama_09BA7A0B_0260_398C_416F_0E704A2CB81E.label = IMG_4466 Panorama
+panorama_0DBCBE53_02DF_CD73_4181_8469EB9AD173.label = PANO_0001 Panorama
+
+## Skin
+
+### Image
+Image_3D9EF928_2C15_7557_4171_42E70FB38AA1_mobile.url = skin/Image_3D9EF928_2C15_7557_4171_42E70FB38AA1_mobile_pt.png
+Image_3D9EF928_2C15_7557_4171_42E70FB38AA1.url = skin/Image_3D9EF928_2C15_7557_4171_42E70FB38AA1_pt.png
+
+## Tour
+
+### Description
+tour.description = Sejam Bem-vindos ao Tour Virtual 360º
+
+### Title
+tour.name = Lisboa Imóveis - Itapema
